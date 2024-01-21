@@ -5,7 +5,7 @@ Este projeto é um jogo criado para aprender e praticar lógica de programação
 #### 🔗[Link do curso](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript)
 
 ### Linguagem de Programação
-![ Javascript](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png) 
+![ Javascript](https://cdn.icon-icons.com/icons2/2699/PNG/512/javascript_logo_icon_168608.png)
 
 ### Editor de Código
 ![Visual Studio Code](https://images.velog.io/images/docchi/post/20d1f5bf-2a38-4b2b-bba7-0e316e7f8d7d/logo.png)
@@ -16,4 +16,3 @@ Este projeto é um jogo criado para aprender e praticar lógica de programação
 - Loops e tentativas
 - Boas práticas de programação
 - Desafio
-
