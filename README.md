@@ -1,4 +1,4 @@
-# 🖥️Projeto do jogo do número secreto - ALURA
+# 🖥️Jogo do Número Secreto
 
 ## 📑Descrição do Projeto
 Este projeto é um jogo criado para aprender e praticar lógica de programação na escola de programação [ALURA](https://cursos.alura.com.br/loginForm?logout)
