@@ -1,7 +1,7 @@
 alert('Bem vindo(a) ao jogo do Número Secreto'); 
 
 let numeroSecreto  = 10; 
-let chuteUsuario 
+let chuteUsuario;
 
 
 while (chuteUsuario != numeroSecreto) {
@@ -12,8 +12,8 @@ while (chuteUsuario != numeroSecreto) {
         if (chuteUsuario > numeroSecreto){
             alert(`você digitou ${chuteUsuario}, O numero secreto é menor!`);
         } else{
-                alert(`você digitou ${chuteUsuario}, O numero secreto é maior!`)
-            }
+                alert(`você digitou ${chuteUsuario}, O numero secreto é maior!`);
+             }
     }
 
 }

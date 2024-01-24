@@ -1,17 +1,14 @@
-# 🖥️Projeto do jogo do número secreto - ALURA
+# Projeto do jogo do número secreto 
+
+![](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
 
 ## 📑Descrição do Projeto
-Este projeto é um jogo criado para aprender e praticar lógica de programação na escola de programação [ALURA](https://cursos.alura.com.br/loginForm?logout)
+Este projeto é um jogo criado para aprender e praticar lógica de programação
 #### 🔗[Link do curso](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript)
 
-### Tecnologias utilizadas
-#### JS
-![ Javascript](https://cdn.icon-icons.com/icons2/2699/PNG/512/javascript_logo_icon_168608.png)
-#### HTML
-![HTML](https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png)
 
-### Editor de Código
-![Visual Studio Code](https://images.velog.io/images/docchi/post/20d1f5bf-2a38-4b2b-bba7-0e316e7f8d7d/logo.png)
+### Tecnologias utilizadas
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **🧾Conteúdos**
 - Iniciando com JavaScript
