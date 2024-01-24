@@ -1,9 +1,11 @@
-# 🖥️Projeto do jogo do número secreto - ALURA
+![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)
+
+# Projeto do jogo do número secreto
 
 ## 📑Descrição do Projeto
-Este projeto é um jogo criado para aprender e praticar lógica de programação
-#### 🔗[Link do curso](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript)
+Este projeto é um jogo criado para aprender e praticar lógica de programação.
 
+#### 🔗[Link do curso](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript)
 
 ### Tecnologias utilizadas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
