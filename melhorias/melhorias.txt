@@ -1,6 +1,6 @@
 MELHORIAS A SEREM IMPLANTADAS: 
 
-Informar quantidade de tentativas até o acerto. 
+M1.: Informar quantidade de tentativas até o acerto. 
 
 DESCRIÇÃO: 
 
@@ -16,4 +16,18 @@ O QUE PRECISA SER FEITO?
 3. Dentro do trecho que exibe a mensagem de acerto, exibir mensagem da quantidade de 
    tentativas concatenando a variável de tentativas.
 
-   
+
+M2.: Ajustar mensagem de acerto na primeira tentativa
+
+DESCRIÇÃO: 
+
+Caso o usuário descubra o número na primeira tentativa, exibir a mensagem de acerto mas com 1 tentativa 
+e não 1 tentativas(plural). 
+
+O QUE PRECISA SER FEITIO? 
+
+1. Caso o chute == numero secreto, o while deve ser parado utilizando o break
+2. Retirar o alert que exibe a mensagem de acerto do while
+3. Criar uma condicional para quando a quantidade de tentativas > 1
+4. Se a condicional do item 3 for atendida, exibir mensagem de acerto com 1 tentativa (singular)
+5. Senão, exibir mensagem de acerto com x tentativas (plural)
