@@ -1,0 +1,19 @@
+MELHORIAS A SEREM IMPLANTADAS: 
+
+Informar quantidade de tentativas até o acerto. 
+
+DESCRIÇÃO: 
+
+Quando o usuário realizar as tentativas para acertar o número secreto, informar na mensagem em 
+que é exibida quando o mesmo consegue encontrar o número, a quantidade de tentativas que ele 
+precisou para acertar.
+
+O QUE PRECISA SER FEITO? 
+
+1. Criar uma variável que guarde o valor inicial de tentativas
+2. Dentro do while, no trecho das condicionais que validam quando não há acerto, 
+   adicionar um incremento da variável de tentativas. 
+3. Dentro do trecho que exibe a mensagem de acerto, exibir mensagem da quantidade de 
+   tentativas concatenando a variável de tentativas.
+
+   
